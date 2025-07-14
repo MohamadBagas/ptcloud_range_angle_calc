@@ -1,4 +1,4 @@
-# **LiDAR Range and Angle of Incidence Calculator**
+# **LiDAR Range and Angle of Incidence Calculation**
 
 This command-line tool processes .las or .laz point cloud files to compute and add two new attributes for each point: **Range** (the distance from the sensor) and **AngleOfIncidence** (the angle between the laser beam and the surface normal).
 
